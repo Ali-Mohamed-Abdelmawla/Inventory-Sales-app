@@ -84,9 +84,9 @@ Example usage commands:
 
 Here’s a preview of how the application looks:
 
-![Screenshot 1](path/to/screenshot1.png)
-(C:\Users\alize\OneDrive\Pictures\Screenshots\inventory 1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](./Screen-shots/inventory-1.png)
+![Screenshot 2](./Screen-shots/inventory-2.png)
+![Screenshot 3](./Screen-shots/inventory-3.png)
 
 ## Contributing
 
