@@ -1,0 +1,30 @@
+/* @import url('/src/renderer/assets/fonts/Zain-Light.ttf');
+@import url('/src/renderer/assets/fonts/Zain-Regular.ttf');
+*/
+
+/* creating a font face */
+
+@font-face {
+    font-family: "Zain";
+    src: url("./assets/fonts/Zain-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Zain";
+    src: url("./assets/fonts/Zain-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Zain";
+    src: url("./assets/fonts/Zain-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+*{
+    direction: rtl;
+}
