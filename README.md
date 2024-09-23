@@ -87,6 +87,8 @@ Here’s a preview of how the application looks:
 ![Screenshot 1](./Screen-shots/inventory-1.png)
 ![Screenshot 2](./Screen-shots/inventory-2.png)
 ![Screenshot 3](./Screen-shots/inventory-3.png)
+This is a preview of the backend apis.
+![Screenshot 4](./Screen-shots/apis.png)
 
 ## Contributing
 
